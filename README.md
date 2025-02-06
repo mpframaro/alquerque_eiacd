@@ -1,6 +1,6 @@
 # Alquerque
 
-This project was done for a first year curricular unit (Elementos de Inteligência Artificial e Ciência de Dados).
+This project was done for a first year curricular unit (Elementos de Inteligência Artificial e Ciência de Dados).<br>
 It was the first time experimenting with PyGame.
 
 Using Python I developed a variant of the alquerque board game!
